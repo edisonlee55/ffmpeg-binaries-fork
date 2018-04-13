@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-binaries-fork",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Fork from ffmpeg-binaries",
   "scripts": {
     "test": "eslint *.js",
