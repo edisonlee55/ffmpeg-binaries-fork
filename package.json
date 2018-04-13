@@ -1,7 +1,7 @@
 {
-  "name": "ffmpeg-binaries",
+  "name": "ffmpeg-binaries-fork",
   "version": "4.0.0",
-  "description": "ffmpeg binaries",
+  "description": "Fork from ffmpeg-binaries",
   "scripts": {
     "test": "eslint *.js",
     "install": "node install"
@@ -24,15 +24,22 @@
     "decompress-unzip": "^4.0.1"
   },
   "author": "Hackzzila <admin@hackzzila.com>",
+  "contributors": [
+    {
+      "name": "Edison Lee",
+      "email": "edisonlee@edisonlee55.com",
+      "url": "https://www.edisonlee55.com"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hackzzila/node-ffmpeg-binaries.git"
+    "url": "git+https://github.com/edisonlee55/ffmpeg-binaries-fork.git"
   },
   "bugs": {
-    "url": "https://github.com/Hackzzila/node-ffmpeg-binaries/issues"
+    "url": "https://github.com/edisonlee55/ffmpeg-binaries-fork/issues"
   },
-  "homepage": "https://github.com/Hackzzila/node-ffmpeg-binaries#readme",
+  "homepage": "https://github.com/edisonlee55/ffmpeg-binaries-fork#readme",
   "main": "index.js",
   "devDependencies": {
     "eslint": "^4.19.1",
